@@ -1,0 +1,368 @@
+May 02, 2023 3:14:25 PM IncidentReport authenticate
+INFO: Called authenticate Method
+May 02, 2023 3:29:19 PM IncidentReport authenticate
+SEVERE: User  failed to log in.
+May 02, 2023 3:30:08 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 02, 2023 3:41:20 PM IncidentReport authenticate
+SEVERE: User  failed to log in.
+May 02, 2023 3:41:28 PM IncidentReport authenticate
+SEVERE: User benji failed to log in.
+May 02, 2023 3:41:33 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 02, 2023 3:44:00 PM IncidentReport authenticate
+SEVERE: User  failed to log in.
+May 02, 2023 3:44:09 PM IncidentReport authenticate
+SEVERE: User Benji failed to log in.
+May 02, 2023 3:44:13 PM IncidentReport authenticate
+SEVERE: User Benji failed to log in.
+May 02, 2023 3:44:20 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 02, 2023 3:44:35 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 02, 2023 3:57:35 PM IncidentReport authenticate
+SEVERE: User  failed to log in.
+May 02, 2023 3:57:51 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 03, 2023 9:44:52 AM IncidentReport authenticate
+SEVERE: User  failed to log in.
+May 03, 2023 9:45:01 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 03, 2023 9:47:14 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 03, 2023 10:02:12 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 03, 2023 10:06:34 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 03, 2023 10:14:31 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 03, 2023 10:16:39 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 03, 2023 10:54:22 AM IncidentReport authenticate
+SEVERE: User  failed to log in.
+May 03, 2023 12:59:21 PM IncidentReport authenticate
+SEVERE: User  failed to log in.
+May 03, 2023 2:38:45 PM IncidentReport authenticate
+SEVERE: User  failed to log in.
+May 03, 2023 2:38:54 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 03, 2023 3:21:01 PM IncidentReport authenticate
+SEVERE: User  failed to log in.
+May 04, 2023 12:13:48 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 04, 2023 12:58:31 PM IncidentReport authenticate
+SEVERE: User  failed to log in.
+May 04, 2023 12:58:41 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 04, 2023 1:02:10 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 04, 2023 1:10:59 PM IncidentReport authenticate
+SEVERE: User  failed to log in.
+May 04, 2023 1:55:48 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 04, 2023 1:56:38 PM IncidentReport authenticate
+SEVERE: User  failed to log in.
+May 04, 2023 1:56:43 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 04, 2023 2:07:06 PM IncidentReport authenticate
+SEVERE: User BENJI failed to log in.
+May 04, 2023 2:07:12 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 04, 2023 2:55:22 PM IncidentReport authenticate
+SEVERE: User  failed to log in.
+May 04, 2023 2:55:29 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 05, 2023 4:05:01 PM IncidentReport authenticate
+SEVERE: User  failed to log in.
+May 05, 2023 4:05:08 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 05, 2023 8:27:53 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 05, 2023 8:33:09 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 05, 2023 8:38:08 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 05, 2023 8:41:24 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 05, 2023 8:52:11 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 05, 2023 8:58:44 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 05, 2023 9:04:30 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 05, 2023 9:10:48 PM IncidentReport authenticate
+SEVERE: User  failed to log in.
+May 05, 2023 9:10:56 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 05, 2023 9:13:10 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 05, 2023 9:15:33 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 05, 2023 9:19:11 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 8:47:10 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 8:51:21 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 10:52:22 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 10:56:04 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 10:57:54 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 11:35:53 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 11:54:28 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 11:58:51 AM IncidentReport authenticate
+SEVERE: User  failed to log in.
+May 09, 2023 11:59:00 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 12:10:04 PM IncidentReport authenticate
+SEVERE: User  failed to log in.
+May 09, 2023 12:10:23 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 12:38:13 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 12:39:55 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 12:43:28 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 1:06:07 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 1:07:24 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 1:08:26 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 1:13:35 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 1:14:26 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 1:15:37 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 1:16:19 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 1:16:58 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 1:18:08 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 1:19:04 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 1:20:18 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 1:24:13 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 2:43:19 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 2:54:12 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 09, 2023 2:54:48 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 11, 2023 3:03:23 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 11, 2023 3:04:54 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 11, 2023 3:09:38 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 11, 2023 3:12:11 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 11, 2023 3:12:44 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 11, 2023 3:15:13 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 11, 2023 3:57:48 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 11, 2023 4:05:59 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 11, 2023 4:09:48 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 9:12:15 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 9:12:34 AM IncidentReport authenticate
+SEVERE: User  failed to log in.
+May 12, 2023 9:12:40 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 9:14:04 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 9:17:04 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 9:30:10 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 9:41:48 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 9:42:29 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 9:45:52 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 9:50:42 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 10:08:52 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 10:11:17 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 10:12:55 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 10:13:32 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 10:29:26 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 11:00:28 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 11:01:20 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 11:24:38 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 11:25:32 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 11:26:48 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 11:27:24 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 11:27:32 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 11:29:11 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 11:29:53 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 12:35:01 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 12:48:30 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 12:49:54 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 12:56:43 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 1:03:01 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 1:09:35 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 1:11:51 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 1:29:31 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 1:35:56 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 1:37:17 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 1:38:46 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 1:39:29 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 1:58:09 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 1:58:42 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 1:59:34 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 2:00:02 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 2:00:28 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 2:01:41 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 2:02:26 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 2:04:49 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 2:32:24 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 2:34:37 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 12, 2023 3:05:51 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 9:38:34 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 9:43:49 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 9:44:34 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 9:45:07 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 9:45:44 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 9:46:52 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 9:48:49 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 9:50:25 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 9:52:41 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 9:58:18 AM IncidentReport authenticate
+SEVERE: User `benji failed to log in.
+May 15, 2023 9:58:23 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 10:01:00 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 10:15:33 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 10:16:23 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 10:18:22 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 10:21:02 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 10:22:27 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 10:26:12 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 10:28:18 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 12:02:04 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 12:07:23 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 12:18:02 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 1:09:08 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 1:12:25 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 1:21:54 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 2:01:57 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 2:07:27 PM IncidentReport authenticate
+SEVERE: User  failed to log in.
+May 15, 2023 2:27:53 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 15, 2023 2:35:34 PM IncidentReport authenticate
+SEVERE: User  failed to log in.
+May 15, 2023 2:35:45 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 16, 2023 9:45:20 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 16, 2023 9:49:43 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 16, 2023 10:00:37 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 16, 2023 10:04:24 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 16, 2023 10:05:29 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 16, 2023 10:06:19 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 16, 2023 10:08:02 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 16, 2023 11:00:04 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 16, 2023 11:08:34 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 16, 2023 11:10:04 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 16, 2023 11:10:50 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 16, 2023 11:20:30 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 16, 2023 11:25:32 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 16, 2023 11:56:07 AM IncidentReport authenticate
+SEVERE: User BENJI failed to log in.
+May 16, 2023 11:56:13 AM IncidentReport authenticate
+INFO: User benji logged in.
+May 16, 2023 12:01:06 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 16, 2023 12:11:47 PM IncidentReport authenticate
+INFO: User benji logged in.
+May 16, 2023 12:13:28 PM IncidentReport authenticate
+INFO: User benji logged in.

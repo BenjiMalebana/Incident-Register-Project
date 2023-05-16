@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="ControlForm">
+  <grid id="27dc6" binding="ControlFormPanel" layout-manager="GridLayoutManager" row-count="6" column-count="4" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="10" left="10" bottom="10" right="10"/>
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties>
+      <maximumSize width="400" height="320"/>
+      <minimumSize width="400" height="320"/>
+      <preferredSize width="400" height="320"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="666ad" class="javax.swing.JLabel" binding="patrolLabel">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Log Patrol:"/>
+        </properties>
+      </component>
+      <component id="e77da" class="javax.swing.JLabel" binding="dutyLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+            <preferred-size width="69" height="93"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="Duty On/Off:"/>
+        </properties>
+      </component>
+      <component id="82757" class="javax.swing.JLabel" binding="shiftReportLabel">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Shift Report:"/>
+        </properties>
+      </component>
+      <component id="cbfdf" class="javax.swing.JButton" binding="shiftReportButton">
+        <constraints>
+          <grid row="4" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="-1" height="20"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="Generate"/>
+        </properties>
+      </component>
+      <component id="8d65b" class="javax.swing.JButton" binding="entryButton">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="-1" height="20"/>
+          </grid>
+        </constraints>
+        <properties>
+          <label value="Start"/>
+          <text value="Start"/>
+        </properties>
+      </component>
+      <component id="8868c" class="javax.swing.JLabel" binding="patrolReportLabel">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Patrol Report:"/>
+        </properties>
+      </component>
+      <component id="ffc9f" class="javax.swing.JButton" binding="patrolReportButton">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="-1" height="20"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="Generate"/>
+        </properties>
+      </component>
+      <component id="5d1ed" class="javax.swing.JLabel" binding="entryLabel">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Entry:"/>
+        </properties>
+      </component>
+      <component id="ddf4d" class="javax.swing.JLabel" binding="incidentReportLabel">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Incident Report:"/>
+        </properties>
+      </component>
+      <component id="79eaf" class="javax.swing.JButton" binding="incidentReportButton">
+        <constraints>
+          <grid row="5" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="-1" height="20"/>
+          </grid>
+        </constraints>
+        <properties>
+          <label value="Generate"/>
+          <text value="Generate"/>
+        </properties>
+      </component>
+      <vspacer id="49aca">
+        <constraints>
+          <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="1" anchor="0" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="10" height="20"/>
+            <preferred-size width="10" height="93"/>
+            <maximum-size width="10" height="20"/>
+          </grid>
+        </constraints>
+      </vspacer>
+      <component id="a5e59" class="javax.swing.JButton" binding="dutyOnButton">
+        <constraints>
+          <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <minimum-size width="100" height="50"/>
+            <preferred-size width="100" height="93"/>
+            <maximum-size width="100" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <inheritsPopupMenu value="false"/>
+          <label value="Duty On"/>
+          <text value="Duty On"/>
+        </properties>
+      </component>
+      <component id="c614c" class="javax.swing.JButton" binding="dutyOffButton">
+        <constraints>
+          <grid row="0" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <minimum-size width="100" height="50"/>
+            <preferred-size width="100" height="93"/>
+            <maximum-size width="100" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <label value="Duty Off"/>
+          <text value="Duty Off"/>
+        </properties>
+      </component>
+      <component id="5cc2a" class="javax.swing.JButton" binding="patrolButton">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="-1" height="20"/>
+          </grid>
+        </constraints>
+        <properties>
+          <label value="Start"/>
+          <text value="Start"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
